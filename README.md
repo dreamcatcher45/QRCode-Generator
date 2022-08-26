@@ -4,7 +4,7 @@
 
 # Download
 
-- Click here to [Download](https://github.com/dreamcatcher45/)
+- Click here to [Download](https://github.com/dreamcatcher45/QRCode-Generator/raw/main/QRCodeGenerator.zip)
 - Download the zip file
 - Extract the zip file
 - Run the Setup.exe
